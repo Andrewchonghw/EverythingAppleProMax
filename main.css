@@ -1,0 +1,64 @@
+header{
+    background-color: crimson;
+    color: darkgray;
+}
+
+body{
+    font-family: kerox ;
+    font-weight:  100 ;
+    background-color: #151D21 ;
+}
+
+@font-face{
+    font-family: kerox;
+    src: url(Kerox/Kerox-NonCommercial.otf);
+    font-style: normal;
+    font-weight: 100;
+}
+
+header h1{
+    margin: 25px;
+    display: inline-block;
+    font-size: 40px;
+}
+
+
+
+
+nav {
+    margin: 0px;
+    display: inline-block;
+    padding-right: 100px;
+    
+}
+
+body{
+    margin: 0px;
+}
+
+
+img{
+    font-size: 10px;
+}
+
+iframe{
+    margin: 0 auto;
+}
+
+div{
+    padding-left: 350px;
+    padding-right: 30px;
+    padding-top: 50px;
+}
+
+img {
+    padding-left: 580px;
+    padding-top: 25px;
+}
+
+h2 a{
+    padding-left: 560px;
+    padding-top: 10px;
+    text-decoration: none;
+    color: darkgray;
+}
